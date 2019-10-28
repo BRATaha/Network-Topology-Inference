@@ -1,1 +1,2 @@
-
+* test_grid.m: testing PCA tool and visualizing network inference results
+* rand_missing.m: recovering missing measurements by low rank matrix completion
